@@ -1,5 +1,5 @@
 import axios from "axios"
-import { use, useEffect, useState } from "react"
+import { useEffect, useState } from "react"
 import Table from 'react-bootstrap/Table';
 import { CiTrash } from "react-icons/ci";
 import { FiEdit } from "react-icons/fi";
